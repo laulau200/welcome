@@ -1,0 +1,1 @@
+Je peux afficher un paragraphe en couleur grâce à la commande
